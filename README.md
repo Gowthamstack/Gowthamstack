@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Some MERN Projects**
 
-- 🌱 I’m currently learning **AWS,Kubernets,Docker**
+- 🌱 I’m currently **Solving Problems** and some machine learning concept
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-two-blush-22.vercel.app/](https://portfolio-two-blush-22.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-two-blush-22.vercel.app/](https://portfolio-kmx2hlgb8-gowtham-s-projects-d5f56c50.vercel.app/)
 
 - 📫 How to reach me **gowthamsamu2003@gmail.com**
 
