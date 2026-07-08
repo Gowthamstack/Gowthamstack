@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on On Demand vehicle Breakdown Assistance project<br>👯 I’m looking to collaborate on different enginners<br>🤝 I’m looking for help with Somthing<br>🌱 I’m currently learning How to write a clean code using OOPs ,SOLID principles , design patterns<br>💬 Ask me about Problem solving, AI<br>⚡ Fun fact Always fun to do Something 
+🔭 I’m currently working on On Machine Learning project<br>👯 I’m looking to collaborate on different enginners<br>🤝 I’m looking for help with Somthing<br>🌱 I’m currently learning How to write a clean code using OOPs ,SOLID principles , design patterns<br>💬 Ask me about Problem solving, AI<br>⚡ Fun fact Always fun to do Something 
 
 
 ## 🌐 Socials:
